@@ -1,6 +1,7 @@
 #EXTM3U 
 
-
+#EXTINF:-1 tvg-id="veseljaktv.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/Y0EyEeU.png" group-title="Slovenski",Veseljak TV (1080p)
+https://stream.veseljak.tv/hls/stream.m3u8
 #EXTINF:-1 group-title="Slovenski" tvg-id="SLO 1 HD" tvg-name="SLO 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_1.png", [COLOR gold]SLO 1[/COLOR]
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 group-title="Slovenski" tvg-id="SLO 2 HD"tvg-name="SLO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_2.png", [COLOR gold]SLO 2[/COLOR]
